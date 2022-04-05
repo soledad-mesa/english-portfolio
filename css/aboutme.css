@@ -1,0 +1,35 @@
+.introduction{
+    color: white;
+    width: 40%;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    justify-content: space-between;
+    padding: 20px;
+    border: 5px;
+    border-color: black;
+    border-style: dotted;
+}
+.information h2{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.information h2 :hover{
+    color: black;
+    size: 200px;
+}
+.information h3 :hover{
+    color: black;
+}
+.aptitudes{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 20%;
+    padding: 10px 0px;
+}
